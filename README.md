@@ -271,3 +271,29 @@ Refined Prompt: "Explain the moon's effect on Earth's tides and how gravitationa
 Result: A more detailed, focused explanation that hones in on the specific relationship between the moon's gravity and tidal movements. 
 
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
+Vague Prompt:
+"Draw a picture of a tree."
+
+Improved Prompt:
+"Draw a tall oak tree in autumn with orange and yellow leaves falling from its branches. Include a small patch of grass and a blue sky with a few clouds in the background."
+
+Explanation:
+The vague prompt is too general, leaving the artist unsure about details like the tree's type, season, setting, or even the background. This lack of information could lead to a result that doesn't match the requester's vision.
+
+The improved prompt is clear, specific, and concise because it provides:
+
+The type of tree (oak)
+The season (autumn)
+A description of the leaves (orange and yellow, falling)
+Some environmental context (small patch of grass, blue sky, few clouds)
+These details give the artist or tool a precise image to work from, reducing ambiguity and increasing the likelihood of meeting the requester's expectations.
+
+
+
+
+
+
+
+
+
+
